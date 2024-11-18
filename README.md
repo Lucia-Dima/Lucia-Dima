@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Computer Science student from South Africa</h3>
 
 - 🌱 I’m currently learning **Python Flask and frame work**
-
 - 📫 How to reach me **luciamalamba8@gmail.com**
 
 - ⚡ Fun fact **I dont like peace , I like problems, hence I chose Computer Science!**
